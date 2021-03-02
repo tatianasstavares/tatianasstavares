@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#  I'm Tatiana Tavares 💻
+## did i hear someone talk about coffee? ☕
+
+My name is Tatiana Tavares, self-taught software developer and chemist by formation. 
+
+I'm currently studyng at CESAE Digital and Rocketseat.
+
+-  🚀   Student at [Rocketseat](https://rocketseat.com.br/).
+-  🔖   Student at [CESAE Digital](https://www.cesae.pt/).
+-  💻   I'm always learning and improving my software developer skills.
+-  🐶   Lover
