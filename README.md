@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #  I'm Tatiana Tavares 💻
-## did i hear someone talk about coffee? ☕
+## A chemist who fell in love with the world of programming 👩‍🔬💻
 
 My name is Tatiana Tavares, self-taught software developer and chemist by formation. 
 
