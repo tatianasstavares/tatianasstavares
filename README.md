@@ -23,6 +23,6 @@ My name is Tatiana Tavares, self-taught software developer and chemist by format
 I'm currently studyng at CESAE Digital and Rocketseat.
 
 -  🚀   Student at [Rocketseat](https://rocketseat.com.br/).
--  🔖   Student at [CESAE Digital](https://www.cesae.pt/).
+-  🔖   Student at [CESAE Digital](https://www.origamid.com/).
 -  💻   I'm always learning and improving my software developer skills.
 -  🐶   Lover
