@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 My name is Tatiana Tavares, self-taught software developer and chemist by formation. 
 
-I'm currently studyng at CESAE Digital and Rocketseat.
+I'm currently studyng at Origamid and Rocketseat.
 
 -  🚀   Student at [Rocketseat](https://rocketseat.com.br/).
 -  🔖   Student at [Origamid](https://www.origamid.com/).
