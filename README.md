@@ -22,7 +22,7 @@ My name is Tatiana Tavares, self-taught software developer and chemist by format
 
 I'm currently studyng at Origamid and Rocketseat.
 
--  🚀   Student at [Rocketseat](https://rocketseat.com.br/).
+-  🚀   Student at [ATEC](https://https://www.atec.pt/cursos-formacao-profissional/calendario-dos-cursos.html/).
 -  🔖   Student at [Origamid](https://www.origamid.com/).
 -  💻   I'm always learning and improving my software developer skills.
 -  🐶   Lover
