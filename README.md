@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 My name is Tatiana Tavares, self-taught software developer and chemist by formation. 
 
 -  🚀   Student at [ATEC](https://https://atec.pt/).
--  🔖   Student at [Origamid](https://www.origamid.com/).
+-  🔖   Student at [Rocketseat](www.rocketseat.com.br).
 -  💻   I'm always learning and improving my software developer skills.
 -  🐶   Lover
